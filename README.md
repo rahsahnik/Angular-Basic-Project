@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## To run this directly in browser copy and paste the below Link in URL
 
-https://rahsahnik.github.io/ng5/
+https://rahsahnik.github.io/Angular-Basic-Project/
